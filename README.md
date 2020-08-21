@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Lucas Lomba! 👋
 
-<!--
-**lucaslomba/lucaslomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 Living in Atibaia-SP
 
-Here are some ideas to get you started:
+💻 Front-End at 123 serviços digitais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Graduate in Anlysis and Systems Development
+
+🎯 Focused in Node.js, React and React Native 
+
+👨🏻‍💻 https://lucaslomba.com.br/
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?lucaslomba=aryclenio&show_icons=true)
