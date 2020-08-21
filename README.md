@@ -27,7 +27,7 @@ I'm a Front-end Developer from Brazil 💚, **21 years old** and **3 years of co
 
 * 👨🏻‍💻 https://lucaslomba.com.br/
 
-* 👽 Learning any tecnology that apears on my way.
+* 👽 I like to learn news tecnologies
 
 ----
 
