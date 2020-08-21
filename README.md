@@ -21,7 +21,7 @@ I'm a Front-end Developer from Brazil 💚, **21 years old** and **3 years of co
 
 * 💻 Front-End at 123 serviços digitais
 
-* 📚 Graduate in Anlysis and Systems Development
+* 📚 Graduate in Analysis and Systems Development
 
 * 🎯 Focused in Node.js, React and React Native 
 
