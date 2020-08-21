@@ -10,4 +10,4 @@
 
 👨🏻‍💻 https://lucaslomba.com.br/
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?lucaslomba=aryclenio&show_icons=true)
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslomba&show_icons=true)
