@@ -19,7 +19,7 @@ I'm a Front-end Developer from Brazil 💚, **21 years old** and **3 years codin
 
 * 🏠 Living in Atibaia-SP
 
-* 💻 Front-End at 123 serviços digitais
+* 💻 Desenvolvedor Júnior at PROMAD
 
 * 📚 Graduate in Analysis and Systems Development
 
