@@ -25,8 +25,6 @@ I'm a Front-end Developer from Brazil 💚, **21 years old** and **3 years codin
 
 * 🎯 Focused in Node.js, React and React Native 
 
-* 👨🏻‍💻 https://lucaslomba.com.br/
-
 * 👽 I like to learn news tecnologies
 
 ----
