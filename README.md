@@ -42,11 +42,6 @@ I'm a Front-end Developer from Brazil 💚, **22 years old** and **4 years codin
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-   
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslomba&show_icons=true)
-
-
 ## GitHub Stats
 <a href="https://github.com/lucaslomba&show_icons=true/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaslomba&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
