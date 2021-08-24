@@ -1,13 +1,13 @@
 ### 👋 Hey, I'm Lucas Lomba!!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/lucas-lomba/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511965898933">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
+  <img align="left" alt="Whatsapp" width="30px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/whatsapp_socialnetwork_17360.png" />
 </a>
 <a target="_blank" href="mailto:lucasazevedolomba@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+  <img align="left" alt="Gmail" width="30px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" />
 </a>
 </br>
 
