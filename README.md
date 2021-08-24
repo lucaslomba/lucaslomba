@@ -10,7 +10,7 @@
   <img align="left" alt="Gmail" width="30px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" />
 </a>
 <a target="_blank" href="mailto:lucasazevedolomba@gmail.com">
-  <img align="left" alt="Gmail" width="30px" src="https://rocketseat.gallerycdn.vsassets.io/extensions/rocketseat/rocketseatreactjs/3.0.2/1588456824702/Microsoft.VisualStudio.Services.Icons.Default" />
+  <img align="left" alt="Gmail" width="30px" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" />
 </a>
 </br>
 
