@@ -18,11 +18,11 @@
 
 Hi, I'm Lucas Lomba, but you can call me **Lomba**. 
 
-I'm a Front-end Developer from Brazil 💚, **22 years old** and **4 years coding** 🧐. 
+I'm a Front-end Developer from Brazil 💚, **23 years old** and **5 years coding** 🧐. 
 
 * 🏠 Living in Atibaia-SP
 
-* 💻 Developer Analyst at Qintess
+* 💻 Developer Analyst at PROMAD
 
 * 📚 Graduate in Analysis and Systems Development
 
