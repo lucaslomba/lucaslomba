@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Lucas Lomba!!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hey, I'm Lucas Lomba!! 
 
 <a target="_blank" href="https://www.linkedin.com/in/lucas-lomba/">
   <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />
