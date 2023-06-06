@@ -15,9 +15,10 @@
 
 <p align="left">Hi, I'm Lucas Lomba, but you can call me Lomba.<br><br>I'm a Front-end Developer from Brazil 💚, 24 years old and 5 years coding 🧐.<br><br>🏠 Living in Atibaia-SP<br><br>💻 Developer Analyst at PROMAD<br><br>📚 Graduate in Analysis and Systems Development<br><br>🎯 Focused in Node.js, React and React Native<br><br>👽 I like to learn news tecnologies</p>
 
+---- 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -40,14 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lucaslomba/lucaslomba/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucaslomba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
