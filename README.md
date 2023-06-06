@@ -42,7 +42,3 @@ I'm a Front-end Developer from Brazil 💚, **23 years old** and **5 years codin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-----
-
-<img src="https://raw.githubusercontent.com/lucaslomba/lucaslomba/output/snake.svg" alt="Snake animation" />
