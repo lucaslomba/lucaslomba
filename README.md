@@ -45,10 +45,4 @@ I'm a Front-end Developer from Brazil 💚, **23 years old** and **5 years codin
 
 ----
 
-## GitHub Stats
-<a href="https://github.com/lucaslomba&show_icons=true/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaslomba&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslomba&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&count_private=true&hide=Starlark,Hack" />
-</a>
+<img src="https://raw.githubusercontent.com/lucaslomba/lucaslomba/output/snake.svg" alt="Snake animation" />
