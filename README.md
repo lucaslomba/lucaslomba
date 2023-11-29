@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Hi, I'm Lucas Lomba, but you can call me Lomba.<br><br>I'm a Front-end Developer from Brazil 💚, 24 years old and 5 years coding 🧐.<br><br>🏠 Living in Atibaia-SP<br><br>💻 Developer Analyst at PROMAD<br><br>📚 Graduate in Analysis and Systems Development<br><br>🎯 Focused in Node.js, React and React Native<br><br>👽 I like to learn news tecnologies</p>
+<p align="left">Hi, I'm Lucas Lomba<br><br>I'm a Front-end Developer from Brazil 💚, 24 years old and 5 years coding 🧐.<br><br>🏠 Living in Atibaia-SP<br><br>💻 Developer Analyst at PROMAD<br><br>📚 Graduate in Analysis and Systems Development<br><br>🎯 Focused in Node.js, React and React Native<br><br>👽 I like to learn news tecnologies</p>
 
 ---- 
 ###
