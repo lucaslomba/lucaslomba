@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">Hi, I'm Lucas Lomba<br><br>I'm a full-stack Developer from Brazil 💚, 25 years old and 6 years coding 🧐.<br><br>🏠 Living in Atibaia-SP<br><br>💻 Full-stack developer at PROMAD<br><br>📚 Graduate in Analysis and Systems Development<br><br>🎯 Focused in study about A.I<br><br>👽 I like to learn news tecnologies</p>
+<p align="center">Hi, I'm Lucas Lomba<br><br>I'm a full-stack Developer from Brazil 🇧🇷, 25 years old and 6 years coding 🧐.<br><br>🏠 Living in Atibaia-SP<br><br>💻 Full-stack developer at PROMAD<br><br>📚 Graduate in Analysis and Systems Development<br><br>🎯 Focused in study about A.I<br><br>👽 I like to learn news tecnologies</p>
 
 ---- 
 ###
